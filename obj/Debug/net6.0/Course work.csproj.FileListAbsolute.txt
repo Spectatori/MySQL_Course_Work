@@ -1,0 +1,15 @@
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.csproj.AssemblyReference.cache
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.GeneratedMSBuildEditorConfig.editorconfig
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.AssemblyInfoInputs.cache
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.AssemblyInfo.cs
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.csproj.CoreCompileInputs.cache
+/home/chavdar/Documents/Projects/Course work/bin/Debug/net6.0/Course work
+/home/chavdar/Documents/Projects/Course work/bin/Debug/net6.0/Course work.deps.json
+/home/chavdar/Documents/Projects/Course work/bin/Debug/net6.0/Course work.runtimeconfig.json
+/home/chavdar/Documents/Projects/Course work/bin/Debug/net6.0/Course work.dll
+/home/chavdar/Documents/Projects/Course work/bin/Debug/net6.0/ref/Course work.dll
+/home/chavdar/Documents/Projects/Course work/bin/Debug/net6.0/Course work.pdb
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.dll
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/ref/Course work.dll
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.pdb
+/home/chavdar/Documents/Projects/Course work/obj/Debug/net6.0/Course work.genruntimeconfig.cache
